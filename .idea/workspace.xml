@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3450c502-1cd2-4c52-b235-e3d2348d8dfc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.sbt" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/highlighting.xml" afterPath="$PROJECT_DIR$/.idea/highlighting.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-ermine.iml" afterPath="$PROJECT_DIR$/scala-ermine.iml" />
+    </list>
+    <ignored path="ermine.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365800933351" ignored="false" />
+    <file path="/Term.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364409170283" ignored="false" />
+    <file path="/Literal.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364315633551" ignored="false" />
+    <file path="$PROJECT_DIR$/../Reporting/core/examples/CIQPA/TearsheetTester.e" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364318035966" ignored="false" />
+    <file path="/TearsheetTester.e" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364318035966" ignored="false" />
+    <file path="/a.dummy" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365799728489" ignored="false" />
+    <file path="/Pat.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364400494371" ignored="false" />
+    <file path="/Binary.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364418145442" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/package.conf.inplace" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364408542523" ignored="false" />
+    <file path="$PROJECT_DIR$/dist/setup-config" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364408542523" ignored="false" />
+    <file path="/Pattern.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364401613178" ignored="false" />
+    <file path="/Core.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364418312132" ignored="false" />
+    <file path="/Arbitrary.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364418045821" ignored="false" />
+    <file path="/Ermine.hs" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364417533797" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-ermine/src/main/scala/ermine/syntax/Core.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364501685451" ignored="false" />
+    <file path="/Core.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364499615491" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/build.sbt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489309697" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/src/main/scala/bound/Bound.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489421195" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/src/main/scala/bound/Name.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489421195" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/src/main/scala/bound/package.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489421195" ignored="false" />
+    <file path="/build.sbt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365800793888" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/target/scala-2.9.2/ivy-0.1-SNAPSHOT.xml" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489028698" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/src/main/scala/bound/Scope.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489421195" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/src/main/scala/bound/Var.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364489421195" ignored="false" />
+    <file path="$PROJECT_DIR$/../f0/scala/src/main/scala/f0/Readers.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364496863752" ignored="false" />
+    <file path="$PROJECT_DIR$/../f0/scala/build.sbt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364496613759" ignored="false" />
+    <file path="/Readers.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364496863752" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-ermine/build.sbt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364501909973" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-ermine/Build.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364499453135" ignored="false" />
+    <file path="/Build.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364499036756" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-ermine/project/build.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364501906196" ignored="false" />
+    <file path="/build.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364501169582" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-ermine/sbt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364500695705" ignored="false" />
+    <file path="/sbt" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1364500573992" ignored="false" />
+    <file path="$PROJECT_DIR$/../scala-bound/tests/src/test/scala/bound/SerializationTests.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365102081569" ignored="false" />
+    <file path="/SerializationTests.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365102077543" ignored="false" />
+    <file path="/fragment.java" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365798081846" ignored="false" />
+    <file path="/Exp.scala" changelist="3450c502-1cd2-4c52-b235-e3d2348d8dfc" time="1365800701778" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ermine" />
+    <favorites_list name="scala-ermine" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Exp.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/exp/Exp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="24" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.sbt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="72" selection-start="817" selection-end="817" vertical-scroll-proportion="0.4604966">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/Ermine/Builtin/Pattern.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Builtin/Term.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Pretty/Pattern.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Syntax/Pattern.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Parser/Pattern.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Parser/Term.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Syntax/Term.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Syntax/Core.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine.hs" />
+        <option value="$PROJECT_DIR$/properties/Arbitrary.hs" />
+        <option value="$PROJECT_DIR$/properties/Binary.hs" />
+        <option value="$PROJECT_DIR$/src/Ermine/Syntax/Scope.hs" />
+        <option value="$PROJECT_DIR$/src/main/scala/ermine/syntax/Core.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/ermine/syntax/Exp.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/exp/Exp.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1688" />
+    <option name="height" value="1058" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-ermine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="229" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="229" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="233" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="229" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="904" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="908" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="228" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="222" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="exp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3450c502-1cd2-4c52-b235-e3d2348d8dfc" name="Default" comment="" />
+      <created>1364313433554</created>
+      <updated>1364313433554</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added Binary instance for Pattern, added quickcheck properties for pack/unpack Literal, HardTerm, and Pattern.">
+      <created>1364401138538</created>
+      <updated>1364401138538</updated>
+    </task>
+    <task id="LOCAL-00002" summary="renamed Pat to Pattern.">
+      <created>1364401490474</created>
+      <updated>1364401490474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="renamed a few functions in Pattern from pat to pattern.">
+      <created>1364401808359</created>
+      <updated>1364401808359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixed indentation.">
+      <created>1364402052488</created>
+      <updated>1364402052488</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed minor copy paste error, added pack/unpack property for Term (still failing on Let)">
+      <created>1364410778285</created>
+      <updated>1364410778285</updated>
+    </task>
+    <task id="LOCAL-00006" summary="now serializing core, with tests.">
+      <created>1364418329189</created>
+      <updated>1364418329189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1688" height="1058" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18604651" sideWeight="0.82346493" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26644737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17653508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="now serializing core, with tests." />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="added Binary instance for Pattern, added quickcheck properties for pack/unpack Literal, HardTerm, and Pattern." />
+    <MESSAGE value="renamed Pat to Pattern." />
+    <MESSAGE value="renamed a few functions in Pattern from pat to pattern." />
+    <MESSAGE value="fixed indentation." />
+    <MESSAGE value="fixed minor copy paste error, added pack/unpack property for Term (still failing on Let)" />
+    <MESSAGE value="now serializing core, with tests." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/exp/Exp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="24" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="47" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/exp/Exp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="24" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="47" selection-start="742" selection-end="742" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/exp/Exp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="24" selection-start="1427" selection-end="1427" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exp.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="72" selection-start="817" selection-end="817" vertical-scroll-proportion="0.4604966">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-compiler-2.10.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ermine</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
