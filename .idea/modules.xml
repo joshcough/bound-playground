@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/scala-ermine.iml" filepath="$PROJECT_DIR$/scala-ermine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bound-playground.iml" filepath="$PROJECT_DIR$/bound-playground.iml" />
     </modules>
   </component>
 </project>
